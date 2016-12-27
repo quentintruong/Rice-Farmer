@@ -55,7 +55,11 @@ $ done
 
 ---
 
+---
+
 ###Note:
+
+chempull.py used to create dict for periodic lookup
 
 For educational purposes only
 
