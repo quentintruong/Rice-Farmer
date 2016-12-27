@@ -1,5 +1,4 @@
 #RiceFarmer
-
 Bot for http://freerice.com/
 
 ---
@@ -32,13 +31,17 @@ Mozilla Firefox
 
 RUN:
 
+```bash
 $ scrapy runspider ricefarmer-chem.py
+```
 
 ###For the slower, but cooler vocab bot (35 grains/minute)-
 
 RUN:
 
+```bash
 $ scrapy runspider ricefarmer-vocab.py
+```
 
 ---
 
@@ -46,14 +49,15 @@ $ scrapy runspider ricefarmer-vocab.py
 
 RUN:
 
+```bash
 $ while True
 
 $ do
 
-$ (enter the CMD from above for the bot you wish to run)
+$ ("enter the CMD from above for the bot you wish to run, without parenthesese and without quotes")
 
 $ done
-
+```
 
 ---
 
