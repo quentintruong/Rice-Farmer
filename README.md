@@ -29,15 +29,11 @@ Mozilla Firefox
 
 ###For the faster, looping, periodic elements bot (160 grains/minute)-
 
-RUN:
-
 ```bash
 $ scrapy runspider ricefarmer-chem.py
 ```
 
 ###For the slower, but cooler vocab bot (35 grains/minute)-
-
-RUN:
 
 ```bash
 $ scrapy runspider ricefarmer-vocab.py
