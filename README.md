@@ -43,8 +43,6 @@ $ scrapy runspider ricefarmer-vocab.py
 
 ###For infinite loops-
 
-RUN:
-
 ```bash
 $ while True
 
