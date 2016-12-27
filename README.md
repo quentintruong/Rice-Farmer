@@ -1,6 +1,5 @@
----
+#RiceFarmer
 
-RiceFarmer
 Bot for http://freerice.com/
 
 ---
