@@ -4,7 +4,7 @@ Bot for http://freerice.com/
 
 ---
 
-Requires:
+###Requires:
 
 Scrapy (v1.3.0)
 
@@ -16,7 +16,8 @@ Mozilla Firefox
 
 ---
 
-Before running-
+###Before running-
+
 1. Create a freerice account
 
 2. Type (your freerice username) into line 29 for ricefarmer-chem.py, or line 30 for ricefarmer-vocab.py
@@ -27,13 +28,13 @@ Before running-
 
 ---
 
-For the faster, looping, periodic elements bot (160 grains/minute)-
+###For the faster, looping, periodic elements bot (160 grains/minute)-
 
 RUN:
 
 $ scrapy runspider ricefarmer-chem.py
 
-For the slower, but cooler vocab bot (35 grains/minute)-
+###For the slower, but cooler vocab bot (35 grains/minute)-
 
 RUN:
 
@@ -41,7 +42,7 @@ $ scrapy runspider ricefarmer-vocab.py
 
 ---
 
-For infinite loops-
+###For infinite loops-
 
 RUN:
 
@@ -56,7 +57,7 @@ $ done
 
 ---
 
-Note:
+###Note:
 
 For educational purposes only
 
