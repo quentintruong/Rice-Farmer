@@ -29,7 +29,7 @@ class RiceSpider(scrapy.Spider):
         username.send_keys('username')
 
         pw = self.driver.find_element_by_xpath('//input[@id="edit-pass"]')
-        pw.send_keys('quentintruong')
+        pw.send_keys('password')
         pw.submit()
 
         self.driver.get('http://freerice.com/#/chemical-symbols-full-list/1')
